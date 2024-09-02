@@ -1,0 +1,19 @@
+[{
+    "image": "http://lorempixel.com/580/250/nature/1",
+    "align": "center",
+    "title": "这是我们的座右铭！",
+    "subtitle": "This is zuoyouming",
+	"link": "/"
+}, {
+    "image": "http://lorempixel.com/580/250/nature/2",
+    "align": "left",
+    "title": "这是座左铭！",
+    "subtitle": "This is zuozuoming",
+	"link": null
+}, {
+    "image": "http://lorempixel.com/580/250/nature/3",
+    "align": "right",
+    "title": "这是座右右铭！",
+    "subtitle": "This is zuoyouoyouming",
+	"link": null
+}]
